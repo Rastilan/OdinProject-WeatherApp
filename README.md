@@ -1,2 +1,5 @@
 # OdinProject-WeatherApp
-Weather App made for the Odin Project
+Weather App Javascript project from The Odin Project
+
+
+

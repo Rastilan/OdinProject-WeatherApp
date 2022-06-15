@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    background: black;
+}
+#top-bar {
+    text-align: center;
+    width: 100vw;
+    background: darkred;
+}
+#search {
+    text-align: center;
+}
+#output {
+    text-align: center;
+}
